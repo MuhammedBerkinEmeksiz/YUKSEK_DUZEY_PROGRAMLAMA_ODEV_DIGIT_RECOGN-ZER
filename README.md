@@ -1,1 +1,1 @@
-# YUKSEK_DUZEY_PROGRAMLAMA_ODEV_DIGIT_RECOGNIZER
+# Yüksek_düzey_programlama_ödev
